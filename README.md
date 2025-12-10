@@ -5,7 +5,7 @@ I enjoy turning raw data into clear insights, improving workflows, and designing
 
 💡 I’m continuously learning and exploring tools for data analytics and automation.
 
----
+
 
 ## 🔧 Skills & Tools
 - Power BI  
@@ -15,7 +15,7 @@ I enjoy turning raw data into clear insights, improving workflows, and designing
 - Dashboard & Reporting  
 - Flowchart / Process Design (Draw.io)
 
----
+
 
 ## 📂 Project Highlights
 
@@ -32,12 +32,12 @@ I enjoy turning raw data into clear insights, improving workflows, and designing
 - Used regression to predict the value-for-money rating of camera prices.
 - Responsible for data cleaning, dataset preparation, and presentation slides.
 
----
+
 
 ## 📫 Contact
 - Email: chanidapa.au@ku.th 
 - Location: Thailand  
 
----
+
 
 Thank you for visiting my GitHub!
