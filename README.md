@@ -36,6 +36,8 @@ I enjoy turning raw data into clear insights, improving workflows, and designing
 ### File name:CamaraPrice_Regresstion,camera_dataset
 [Youtube presentation CamaraPrice Regresstion](https://youtu.be/EJyfTiBT1mY?si=qqsu48n4d1egxfcv)
 
+[AI Project Prediction Chornic kidney disease](https://colab.research.google.com/drive/11F7bZ06DDyRrNDzB4yPifzlltsjaiRsO?usp=drive_link)
+
 
 
 
