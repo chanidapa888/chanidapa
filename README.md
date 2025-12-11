@@ -34,7 +34,7 @@ I enjoy turning raw data into clear insights, improving workflows, and designing
 - Used regression to predict the value-for-money rating of camera prices.
 - Responsible for data cleaning, dataset preparation, and presentation slides.
 ### File name:CamaraPrice_Regresstion,camera_dataset
-[Youtube presentation](https://youtu.be/EJyfTiBT1mY?si=qqsu48n4d1egxfcv)
+[Youtube presentation CamaraPrice Regresstion](https://youtu.be/EJyfTiBT1mY?si=qqsu48n4d1egxfcv)
 
 
 
