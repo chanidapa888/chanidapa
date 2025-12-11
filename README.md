@@ -23,17 +23,17 @@ I enjoy turning raw data into clear insights, improving workflows, and designing
 - Built a dashboard to visualize the number of students with disabilities and disadvantaged groups.
 - Designed data structure and prepared dataset for reporting.
 - Produced a clear and interactive dashboard for educational analysis.
-File name:ProjectIDS
+### File name:ProjectIDS
 
 ### 2. **Excel Payroll Automation**
 - Developed an Excel-based tool to generate monthly salary slips automatically.
 - Improved speed and accuracy of the payroll process.
-File name:AutoPayslip
+### File name:AutoPayslip
 
 ### 3. **Camera Price Efficiency Prediction | Regression Model**
 - Used regression to predict the value-for-money rating of camera prices.
 - Responsible for data cleaning, dataset preparation, and presentation slides.
-File name:CamaraPrice_Regresstion,camera_dataset
+### File name:CamaraPrice_Regresstion,camera_dataset
 
 
 
